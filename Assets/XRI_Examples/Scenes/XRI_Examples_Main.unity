@@ -32789,7 +32789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8047140479014348782, guid: 4e660da2419d1614198b2c073ddf863d, type: 3}
       propertyPath: m_DefaultParameters.m_ApertureSize
-      value: 0.4
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 8059801596075752103, guid: 4e660da2419d1614198b2c073ddf863d, type: 3}
       propertyPath: m_LocalRotation.w
